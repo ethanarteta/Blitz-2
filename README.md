@@ -25,7 +25,7 @@ In this exercise, we simulated a scenario in which our web server experienced a 
 
 **Key Findings:**
 - High CPU usage was observed under the simulated high load conditions.
-  !image(Blitz-2-images/CPU-usage.png)
+  ![image](Blitz-2-images/CPU-usage.png)
 - Regular Memory usage was observered under the simulared high load conditions.
-  !image(Blitz-2-images/Memory-usage.png)
+  ![image](Blitz-2-images/Memory-usage.png)
 
