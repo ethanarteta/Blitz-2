@@ -35,7 +35,7 @@ In this exercise, we simulated a scenario in which our web server experienced a 
 - High CPU usage was observed under the simulated high load conditions.
 - The CPU usage spiked to 99.7%, by contrast, while idle usage is 1.9%. This significant increase in CPU consumption can be attributed to the heightened processing demands resulting from the elevated data transfer rates mentioned earlier. The CPU is now tasked with managing packet processing, data encryption/decryption, and routing functions.
   ![image](Blitz-2-images/CPU-usage.png)
-- 
+  
 - Regular Memory usage was observed under the simulated high load conditions.
 - Memory usage maintained between the range of .7gb to 2.8gb both values well below half usage of the total 8gb.  
   ![image](Blitz-2-images/Memory-usage.png)
