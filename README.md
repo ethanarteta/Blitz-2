@@ -43,3 +43,30 @@ In this exercise, we simulated a scenario in which our web server experienced a 
 -Disk usage was observed under the simulated high load conditions.
 -Disk usage remained the same the whole time while the server was tested 
  ![image](Blitz-2-images/Disk-usage.png)
+
+**Remediation**
+
+1. Identifying Bottlenecks: discovered that the server was experiencing high CPU usage and a significant increase in network traffic during the blitz-2 exercise.
+
+2. CPU Optimization: The server's hardware was upgraded to larger instances with more CPU cores to mitigate high CPU usage. We went from the T2.medium that has 2 vCPU cores and 4gb ram to T2.xlarge which has 4 vCPU cores  
+     ![image](Blitz-2-images/CPU-usage-2.png)
+
+### Diagram
+
+![image](Blitz-2-images/Blitz-2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
