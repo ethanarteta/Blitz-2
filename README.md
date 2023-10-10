@@ -23,8 +23,8 @@ In this exercise, we simulated a scenario in which our web server experienced a 
 - Users connected: 13,942
 - Users timed out: 58
 - Approximately 58 users experienced errors such as:
-    -503 Service Unavailable
-    -500 Internal Server Error
+    - 503 Service Unavailable
+    - 500 Internal Server Error
 
 **Key Findings:**
 
